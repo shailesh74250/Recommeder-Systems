@@ -10,3 +10,6 @@ Your final Recommender System will be able to predict the ratings of the movies 
 Our first model will be Deep Belief Networks, complex Boltzmann Machines that will be covered in Part 5. Then our second model will be with the powerful AutoEncoders, my personal favorites. You will appreciate the contrast between their simplicity, and what they are capable of.
 
 And you will even be able to apply it to yourself or your friends. The list of movies will be explicit so you will simply need to rate the movies you already watched, input your ratings in the dataset, execute your model and voila! The Recommender System will tell you exactly which movies you would love one night you if are out of ideas of what to watch on Netflix!   
+
+
+hi
