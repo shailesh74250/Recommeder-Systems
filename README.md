@@ -12,4 +12,4 @@ Our first model will be Deep Belief Networks, complex Boltzmann Machines that wi
 And you will even be able to apply it to yourself or your friends. The list of movies will be explicit so you will simply need to rate the movies you already watched, input your ratings in the dataset, execute your model and voila! The Recommender System will tell you exactly which movies you would love one night you if are out of ideas of what to watch on Netflix!   
 
 
-hi
+hi this my change
